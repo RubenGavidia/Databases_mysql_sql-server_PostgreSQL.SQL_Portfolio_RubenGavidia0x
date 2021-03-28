@@ -1,6 +1,6 @@
 SQL QUERIES:
 
-![MYSQL]("https://cdn.discordapp.com/attachments/816065077877800990/825788871677444127/unknown.png")
+![MYSQL](https://cdn.discordapp.com/attachments/816065077877800990/825788871677444127/unknown.png)
 
 # Google-Sheets_Portfolio_RubenGavidia0x
 
