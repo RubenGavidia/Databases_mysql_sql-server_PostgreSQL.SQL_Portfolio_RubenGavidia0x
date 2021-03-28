@@ -1,8 +1,6 @@
 SQL QUERIES:
 
-<p align="center">
-  <img width="460" height="700" src="https://cdn.discordapp.com/attachments/816065077877800990/825788871677444127/unknown.png">
-</p>
+![MYSQL]("https://cdn.discordapp.com/attachments/816065077877800990/825788871677444127/unknown.png")
 
 # Google-Sheets_Portfolio_RubenGavidia0x
 
