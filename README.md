@@ -2,6 +2,11 @@ SQL QUERIES:
 
 ![MYSQL](https://cdn.discordapp.com/attachments/816065077877800990/825788871677444127/unknown.png)
 
+SQL Query ACCESS REPETITIVE DATA
+
+![SQL-ACCESS](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/DATA/2images_normalization_with_access.png?raw=true)
+
+
 # Google-Sheets_Portfolio_RubenGavidia0x
 
 <p align="center">
