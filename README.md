@@ -1,9 +1,9 @@
 Microsoft Access:
 
+![access chart1](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/Microsoft_Access_Portfolio_RubenGavidia0x/chart%20microsoft%20access1.jpg?raw=true)
+
 
 ![access chart0](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/Microsoft_Access_Portfolio_RubenGavidia0x/chart%20microsoft%20access0.png?raw=true)
-
-
 
 SQL QUERIES:
 
