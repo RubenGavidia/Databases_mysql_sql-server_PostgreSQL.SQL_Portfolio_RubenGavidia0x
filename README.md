@@ -1,3 +1,12 @@
+SQL SERVER 35$
+
+[query 10](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/sql_server/Query10.png)
+[query 9](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/sql_server/Query9.png)
+[query 8](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/sql_server/Query8.png)
+[query 7](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/sql_server/Query10.png)
+[query 6](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/sql_server/Query6.png)
+
+
 Microsoft Access:
 
 ![access chart1](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/Microsoft_Access_Portfolio_RubenGavidia0x/chart%20microsoft%20access1.jpg?raw=true)
