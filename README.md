@@ -11,7 +11,8 @@ SQL SERVER 45$
 
 ![query 10](https://github.com/RubenGavidia/Databases_mysql_sql-server_PostgreSQL.SQL_Portfolio_RubenGavidia0x/blob/main/mysql/modelbank_EER_Diagram.jpg)
 
-´´´
+```
+
 DROP DATABASE IF EXISTS BankAccountDatabase;
 
 CREATE DATABASE  BankAccounDatabase;
@@ -47,7 +48,7 @@ INSERT INTO CustomerAccount VALUES ('23445', '91101');
 
 ALTER TABLE CustomerAccount ADD CONSTRAINT FK_Customer FOREIGN KEY (CustomerNumber) REFERENCES Customer (CustomerNumber) ON UPDATE CASCADE ON DELETE CASCADE;
 ALTER TABLE CustomerAccount ADD CONSTRAINT FK_Account FOREIGN KEY (AccountNumber) REFERENCES Account (AccountNumber) ON UPDATE CASCADE ON DELETE CASCADE;
-´´´
+```
 
 #Queries
 
