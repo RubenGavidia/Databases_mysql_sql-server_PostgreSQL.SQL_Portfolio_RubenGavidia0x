@@ -1,5 +1,3 @@
--- Angel_Hernandez_BANK_Database.sql
-
 DROP DATABASE IF EXISTS BankAccountDatabase;
 
 CREATE DATABASE  BankAccounDatabase;
