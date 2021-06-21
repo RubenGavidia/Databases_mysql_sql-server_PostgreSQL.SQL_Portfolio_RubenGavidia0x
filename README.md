@@ -1,5 +1,13 @@
 SQL SERVER 45$
 
+#NormalizationPart1
+
+![query SLide2](https://github.com/RubenGavidia/Databases_mysql_sql-server_PostgreSQL.SQL_Portfolio_RubenGavidia0x/blob/main/mysql/NormalizationPart1_Slide2.JPG)
+![query Slide3](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/sql_server/Query10.png)
+
+#NormalizationPart2
+
+
 ![query 10](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/sql_server/Query10.png)
 
 ![query 9](https://github.com/RubenGavidia/Data_Portfolio_RubenGavidia0x/blob/main/sql_server/Query9.png)
