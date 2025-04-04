@@ -1,6 +1,3 @@
-SQL SERVER 45$
-
-#NormalizationPart1
 
 ![query SLide2](https://github.com/RubenGavidia/Databases_mysql_sql-server_PostgreSQL.SQL_Portfolio_RubenGavidia0x/blob/main/mysql/NormalizationPart1_Slide2.JPG)
 ![query Slide3](https://github.com/RubenGavidia/Databases_mysql_sql-server_PostgreSQL.SQL_Portfolio_RubenGavidia0x/blob/main/mysql/NormalizationPart1_Slide3.JPG)
